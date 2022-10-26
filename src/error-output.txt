@@ -1,0 +1,20 @@
+sh: 1: Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected
+sh: 1: sh: 1: sh: 1: Syntax error: ")" unexpectedSyntax error: ")" unexpectedSyntax error: ")" unexpectedsh: 1: 
+
+
+Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected
+sh: 1: Syntax error: ")" unexpected

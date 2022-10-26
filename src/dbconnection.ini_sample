@@ -1,0 +1,7 @@
+usedb=1
+hostdb=hostdatabase
+userdb=youruserdb
+password=youruserdbpassword
+database=yourdbname
+localworkernumbers=2
+depth=5
